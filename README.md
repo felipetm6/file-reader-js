@@ -1,0 +1,1 @@
+This is a simple web application that aims to demonstrate how to read a user's JSON file and fill out your page with it's information. This example is currently using the most modern implementations of ES6.
